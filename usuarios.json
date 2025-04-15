@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Alex",
+        "email": "alex@gmail.com",
+        "senha": "$2y$10$cBC15.C.J27Kmo5PAMTLOePqeoGo.HEw3hXcNpjTEyjbUZ.RQ6dY6"
+    },
+    {
+        "nome": "Lais",
+        "email": "lais@gmail.com",
+        "senha": "$2y$10$pDOp5lX54Fl\/39f7IjiDBea0eYUmCEF7eEprlbfN8IPQsGhnzNA3K"
+    },
+    {
+        "nome": "Oneda",
+        "email": "oneda@gmail.com",
+        "senha": "$2y$10$4B29B04Rar4qLt4e60rDj.Snw31KdJfCCYANTJcfXoR5xdrhpilYu"
+    },
+    {
+        "nome": "Layne",
+        "email": "layne@gmail.com",
+        "senha": "$2y$10$Q61nd4AwWxcaec.gMHQC6.V6KV7PB0ZEvWg2nrwVlK.dxol7FhO2a"
+    }
+]
