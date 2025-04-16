@@ -1,6 +1,9 @@
+Acadêmica: Layne Laís de Castilho Firmino, Ciência da Computação UNOESC Videira
+
 # Sistema de Cadastro e Login Simples (PHP)
 
 Este projeto é um sistema básico de cadastro, login e controle de sessão em PHP com armazenamento de usuários em um arquivo JSON.
+
 
 ## Estrutura dos Arquivos
 
@@ -27,3 +30,6 @@ Este projeto é um sistema básico de cadastro, login e controle de sessão em P
 
 - **usuarios.json**  
   Arquivo que armazena os usuários registrados (nome, email e senha criptografada).
+
+## Instruções
+Para executar o projeto localmente não é necessário nenhum passo adicional, apenas clonar o repositório para seu servidor local, executar de forma normal o website e seguir seu fluxo de funcionamento.
